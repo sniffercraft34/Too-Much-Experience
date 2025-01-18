@@ -1,0 +1,1 @@
+xp set @a 0 points
